@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Reflex Agent.sln"
+    "dotnet.defaultSolution": "Reflex-Agent.sln"
 }
